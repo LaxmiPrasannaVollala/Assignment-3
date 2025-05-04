@@ -11,3 +11,4 @@ Bootstrap Estimation for BloodPressure:
 -Insight: The bootstrap method provides a reliable way to estimate population statistics, especially when theoretical assumptions (like normality) may not hold or when calculating complex metrics like percentiles.
 
 -This also shows the power of resampling techniques — with just the original data, we can generate robust estimates without knowing the true underlying distribution.
+
