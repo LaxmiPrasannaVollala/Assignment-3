@@ -1,0 +1,11 @@
+Glucose — Mean and Max Comparison
+
+A random sample of 25 patients was taken from the population of 768.
+
+The mean Glucose level in the sample was slightly lower/higher than the population average. This is expected due to sampling variability — smaller samples tend to fluctuate more from the true population values.
+
+Similarly, the maximum Glucose value in the sample was lower/higher than the population's maximum.
+
+Insight: Small samples might not always capture extreme values or represent the true central tendency. This shows the importance of sample size when estimating population parameters.
+
+The bar charts clearly illustrated this difference, helping us visualize the deviation between sample and population metrics.
