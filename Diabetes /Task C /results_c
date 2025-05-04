@@ -1,0 +1,13 @@
+Bootstrap Estimation for BloodPressure:
+
+-Using 500 bootstrap samples (each of size 150), we estimated three key statistics for BloodPressure: mean, standard deviation, and 98th percentile.
+
+-The average of the bootstrap means closely matched the population mean of BloodPressure, demonstrating that bootstrap replicates the population’s central tendency well.
+
+-Similarly, the average bootstrap standard deviation and 98th percentile were also very close to their population counterparts.
+
+-The histograms of the bootstrap distributions (for each statistic) showed that the estimates are centered around the population values, with relatively small spread.
+
+-Insight: The bootstrap method provides a reliable way to estimate population statistics, especially when theoretical assumptions (like normality) may not hold or when calculating complex metrics like percentiles.
+
+-This also shows the power of resampling techniques — with just the original data, we can generate robust estimates without knowing the true underlying distribution.
