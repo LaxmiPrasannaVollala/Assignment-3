@@ -1,0 +1,11 @@
+98th Percentile of BMI
+
+-The 98th percentile of BMI indicates the value below which 98% of the BMI values fall.
+
+-The sample percentile was noticeably different from the population's 98th percentile.
+
+-This is again due to the small sample size (n=25), which may not adequately capture the distribution's tail (i.e., extreme high BMI values).
+
+-Insight: Percentiles, especially in the tails (like 98th), are highly sensitive to sample size. Sampling error is more evident when estimating such high percentiles from small samples.
+
+-The density plot with vertical lines provided a visual interpretation of how the sample missed the full shape of the population distribution.
